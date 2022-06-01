@@ -1,6 +1,6 @@
 ## Dependencies
 
-For a straight-forward use of INAFEN, you can install the required libraries from *requirements.txt*: ` pip install -r requirements_attdmm.txt`
+For a straight-forward use of INAFEN, you can install the required libraries from *requirements.txt*: ` pip install -r requirements.txt`
 
 ## Dataset
 
